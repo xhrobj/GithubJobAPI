@@ -8,7 +8,7 @@
 import Foundation
 
 
-public struct PositionJSON: Codable { 
+public final class PositionJSON: Codable { 
 
 
     public var id: String
